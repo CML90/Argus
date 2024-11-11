@@ -2,9 +2,9 @@
  <h1 style="font-size: 5em;">Argus | Cardano Blockchain Indexer for .NET</h1>
 </div>  
 
-<p align="center"> 
+<div align="center"> 
   <img src="/assets/asset.png" alt="Argus Logo"> 
-</p> 
+</div> 
 
 <div align="center"> 
 
@@ -16,9 +16,7 @@
 ![Issues Closed](https://img.shields.io/github/issues-closed/SAIB-Inc/Argus.svg?label=Closed%20Issues) 
 
 <a href="https://www.nuget.org/packages/SAIB.Cardano.Sync"> 
-
     <img src="https://img.shields.io/nuget/v/SAIB.Cardano.Sync.svg" alt="NuGet"> 
-
 </a> 
 
 ![C#](https://img.shields.io/badge/C%23-purple.svg) 
