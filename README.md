@@ -1,13 +1,6 @@
-# Argus | Cardano Blockchain Indexer for .NET 
-
-<p align="center"> 
-  <img src="/assets/asset.png" alt="Argus Logo"> 
-</p> 
-  
-
 <div align="center"> 
     <h1 style="font-size: 3em;">Argus :mag:</h1> 
-    <h4>A Cardano Blockchain Indexer for .NET</h4> 
+    <h2>A Cardano Blockchain Indexer for .NET</h4> 
 </div>  
 
 <div align="center"> 
