@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1 style="font-size: 3em;display: inline">Argus</h1><img src="/assets/asset.png" alt="Argus Logo"> 
+    <h1 style="font-size: 3em;display: inline-block">Argus</h1><img src="/assets/asset.png" alt="Argus Logo" style="display: inline-block; vertical-align: middle"> 
     <h2>A Cardano Blockchain Indexer for .NET</h2> 
 </div>  
 
